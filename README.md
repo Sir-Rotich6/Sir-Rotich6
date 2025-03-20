@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 👋 Hey there! I'm Enock Rotich<br><br>🚀 
+# 💫👋 Hey there! I'm Enock Rotich<br><br>🚀 
  
 I'm an **AI Engineer, Data Scientist, and MLOps Specialist** passionate about solving real-world problems with AI. My expertise includes **Machine Learning, Deep Learning, NLP, and Data Analytics**.  
 
