@@ -44,7 +44,10 @@ Looking for **AI and Data Science roles**! Let’s connect if you have opportuni
 [![](https://visitcount.itsvg.in/api?id=Sir-Rotich6&icon=3&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sirrotich6) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sirrotich6)
+  
+  
+    : +254710170307
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
