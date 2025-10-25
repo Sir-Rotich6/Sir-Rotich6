@@ -9,7 +9,7 @@ I'm an **AI Engineer, Data Scientist, and MLOps Specialist** passionate about so
 - **Software Development** – AI-powered applications  
 
 ### 🎯 Looking to Collaborate  
-I’m open to working on **AI and Data Science projects** in **NLP, Computer Vision, and Generative AI**.  
+I’m open to working on **AI and Data Science projects** in **NLP, Machine Learning, Computer Vision, and Generative AI**.  
 
 ### 🎓 Currently Learning  
 - **AI Agents & Multi-Agent Systems**  # Building business ready projects using Python
