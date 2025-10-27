@@ -6,7 +6,8 @@ I'm an **AI Engineer, Data Scientist, and MLOps Specialist** passionate about so
 - **AI & Data Science** – Building and optimizing ML models  
 - **MLOps** – Deploying AI models in production  
 - **Data Engineering** – Data processing and visualization  
-- **Software Development** – AI-powered applications  
+- **Software Development** – AI-powered applications
+- **Data Science Mentor** - Help others Upskill in the field of Data Science and AI.
 
 ### 🎯 Looking to Collaborate  
 I’m open to working on **AI and Data Science projects** in **NLP, Machine Learning, Computer Vision, and Generative AI**.  
